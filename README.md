@@ -61,6 +61,7 @@ You can deploy this bot anywhere.
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
+  https://www.heroku.com/deploy?template=https://github.com/JNS-BOTS/jns-eva-maria-test-phoenix-1
 </details>
 
 <details><summary>Deploy To VPS</summary>
